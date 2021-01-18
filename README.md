@@ -1,2 +1,4 @@
-# previsao-do-tempo-via-API-open-weather
- uso da API de tempo da OpenWeather usando Node e Angular
+# Previsao do tempo Utilizando a API OpenWeather
+
+Projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli).
+
